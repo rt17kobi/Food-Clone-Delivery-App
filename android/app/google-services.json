@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "672820308015",
+    "project_id": "udemy-jit-food",
+    "storage_bucket": "udemy-jit-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672820308015:android:10af2e37b2dc22798f3eda",
+        "android_client_info": {
+          "package_name": "com.kitchen.jitfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672820308015-07290icm5slfa25ecfia62f3u2lbs165.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNyDLKUaub_ZgIVLAsoEGH7c_erR5Ez8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672820308015-07290icm5slfa25ecfia62f3u2lbs165.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672820308015:android:dfdbe78d1d4154f58f3eda",
+        "android_client_info": {
+          "package_name": "com.restaurant.jitfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672820308015-07290icm5slfa25ecfia62f3u2lbs165.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNyDLKUaub_ZgIVLAsoEGH7c_erR5Ez8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672820308015-07290icm5slfa25ecfia62f3u2lbs165.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
